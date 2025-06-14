@@ -1,0 +1,9 @@
+env-python/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.sqlite3
+*.log
+.vscode/
