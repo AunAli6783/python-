@@ -1,0 +1,7 @@
+name,gender,age,math_score,english_score,science_score
+Ali,M,16,78.0,82.0,89.0
+Sara,F,15,88.0,,93.0
+Ahmed,M,17,,74.0,80.0
+Zara,F,16,90.0,91.0,
+Faisal,M,15,45.0,40.0,38.0
+Amna,F,17,80.0,87.0,85.0
